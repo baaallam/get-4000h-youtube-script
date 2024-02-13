@@ -1,0 +1,8 @@
+hey .
+ first you should go tothe script and click on edit on notepad , then past the link of your video youtube
+and save it with .bat and run on your computer it will start working .
+the function of the script is complate 4000h of watchtime in youtube after every 2mins the browser will clean the cookies and the data and start again for the same progress .
+
+
+script by khadija baaalla 
+telegram : @baaallam
